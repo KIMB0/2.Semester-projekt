@@ -42,6 +42,9 @@
           <property Id="e23afc72-8ffa-46c1-98b1-8fc75bd5624a" name="Email" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="5b1da6c0-3fe2-4b5e-b04c-14cebba7836e" />
           </property>
+          <property Id="2326e7c5-f3f6-4351-ae34-6e41cc27d2db" name="KundeId" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="41a2e2b4-dfd7-4f88-a9bb-c769f4b15f49" />
+          </property>
         </ownedAttributesInternal>
       </class>
     </logicalClassDesignerModelHasTypes>
@@ -118,11 +121,20 @@
           <property Id="96ccfbb1-4e9b-42c7-a69f-662879bf0dc9" name="Skib" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="2e7d92e0-2a2d-4f58-aa7a-af3404ae15d3" />
           </property>
-          <property Id="db44855b-9c0d-4d9a-9555-9a9ff21f5351" name="Plads" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+          <property Id="db44855b-9c0d-4d9a-9555-9a9ff21f5351" name="Antal" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="b400bcb4-10a9-4e89-89bb-afb8f2194437" />
           </property>
           <property Id="aad0d950-5f82-45d5-9299-88da09b3cc2f" name="Sejltur" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="2086f6ef-1ca9-45f2-b8b3-9b0c74539334" />
+          </property>
+          <property Id="35ca2be3-edf6-46e1-a08d-6874e1584214" name="BookingId" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="4d9d56c2-b132-464f-a144-614961aa7db1" />
+          </property>
+          <property Id="cf199ab0-fb53-4100-83d8-34f713f003aa" name="KundeId" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="a0577c1c-6027-467b-8562-0d698aff3102" />
+          </property>
+          <property Id="20062fc9-8735-494e-ba49-8f2d37348714" name="Navn" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="1ba28208-ee98-4c76-96e0-1d22074bac89" />
           </property>
         </ownedAttributesInternal>
       </class>
