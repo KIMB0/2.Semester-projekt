@@ -1999,6 +1999,30 @@
         Id="e962d512-b660-4262-9714-e73f88027082"
         name="ExecutionEvent" />
     </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="9ac7339d-9287-4ab3-bcd8-4ce9c05ccf0e"
+        LastKnownName="Package1"
+        LastKnownLocation="Package_1007.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="dab9a32d-b769-4ff9-ab8b-5958b0b370d9"
+        LastKnownName="View"
+        LastKnownLocation="Package1_1007.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="07c93ad9-eb46-437a-bac3-32d240bf9e2f"
+        LastKnownName="ViewModel"
+        LastKnownLocation="Package2_1007.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="268b98f3-5d40-4380-afe5-0b3b8b6fa5fe"
+        LastKnownName="Model"
+        LastKnownLocation="Package_1008.uml" />
+    </packageHasNamedElement>
   </packagedElements>
   <primitiveType
     Id="220a3521-e091-4221-bae9-3ef9018e845c"

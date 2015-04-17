@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner" dslVersion="1.0.0.0" Id="66bdc6cc-841e-4d66-95ef-20f373395bfb" name="UMLDesignClassDiagram1" linkedPackageId="41fe893f-753d-48da-aa60-e49ba0d62619" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="d3321db2-f1cc-4592-ae84-66519d118cc5">
+      <profileInstance Id="2dc30036-ccf5-4147-ad0d-3305fc956f96" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="d3f1858d-c395-432c-9407-481264fe90aa">
+      <profileInstance Id="2d0a5c78-587b-4240-986b-6f592e5e0a29" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="cf27907a-2d0a-46d9-a323-d75af2d5932e" name="View">
+        <elementDefinition Id="dab9a32d-b769-4ff9-ab8b-5958b0b370d9" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="3d8e7537-ee73-4fd5-8a06-4b0c05dc57e4" name="ViewModel">
+        <elementDefinition Id="07c93ad9-eb46-437a-bac3-32d240bf9e2f" />
+        <packagedElements>
+          <packageHasNamedElement>
+            <class Id="2672ddcd-e00c-451a-9f62-fd786fc0b3f2" name="MainViewModel" isAbstract="false" isLeaf="false" isActiveClass="false">
+              <elementDefinition Id="f33ae015-f15a-4b8f-a76a-d3c1bd32fe21" />
+            </class>
+          </packageHasNamedElement>
+          <packageHasNamedElement>
+            <class Id="20415825-1cf0-46d6-bb30-b8d12c83871b" name="SingleTonViewModel" isAbstract="false" isLeaf="false" isActiveClass="false">
+              <elementDefinition Id="506767e7-27bb-43fd-b814-5dd578f7ac92" />
+            </class>
+          </packageHasNamedElement>
+        </packagedElements>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="d51860ce-3654-4283-8f82-c244c3dcb326" name="Model">
+        <elementDefinition Id="268b98f3-5d40-4380-afe5-0b3b8b6fa5fe" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="41fe893f-753d-48da-aa60-e49ba0d62619" name="VIKINGESKIBSMUSEETdomain">
+    <elementDefinition Id="40f873af-ff2b-4e31-ba85-b79369f181e3" />
+  </package>
+</logicalClassDesignerModel>
