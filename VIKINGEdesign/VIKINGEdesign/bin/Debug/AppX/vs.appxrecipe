@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-28T08:44:38.458</Modified>
+      <Modified>2015-04-28T09:07:23.094</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\VIKINGEdesign.exe">
       <PackagePath>VIKINGEdesign.exe</PackagePath>
-      <Modified>2015-04-28T08:44:38.154</Modified>
+      <Modified>2015-04-28T09:11:19.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\Assets\body.gif">
       <PackagePath>Assets\body.gif</PackagePath>
@@ -82,15 +82,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\View\FrontPage1.xbf">
       <PackagePath>View\FrontPage1.xbf</PackagePath>
-      <Modified>2015-04-28T08:44:37.531</Modified>
+      <Modified>2015-04-28T09:11:19.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\VIKINGEdesign.xr.xml">
       <PackagePath>VIKINGEdesign.xr.xml</PackagePath>
-      <Modified>2015-04-17T09:55:01.794</Modified>
+      <Modified>2015-04-28T09:09:54.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-28T08:44:38.333</Modified>
+      <Modified>2015-04-28T09:07:22.957</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

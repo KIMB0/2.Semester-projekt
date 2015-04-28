@@ -56,7 +56,7 @@
             <TextBlock TextWrapping="Wrap" Text="Antal:" FontSize="26" Foreground="Black" Margin="0,10,0,0"/>
         </StackPanel>
         <TextBlock HorizontalAlignment="Left" Margin="262,482,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Vælg dato:" VerticalAlignment="Top" Height="35" Width="124" FontSize="24" Foreground="Black"/>
-        <Button Content="BESTIL" HorizontalAlignment="Left" Margin="1042,501,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1FDA16" Height="57" Width="145" BorderBrush="#FF1FDA16" Foreground="Black"/>
+        <Button Content="BESTIL" HorizontalAlignment="Left" Margin="963,500,0,0" Grid.Row="1" VerticalAlignment="Top" Background="#FF1FDA16" Height="57" Width="145" BorderBrush="#FF1FDA16" Foreground="Black"/>
 
         <!-- Back button and page title -->
     </Grid>
