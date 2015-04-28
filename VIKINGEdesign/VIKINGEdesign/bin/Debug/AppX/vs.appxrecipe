@@ -20,13 +20,13 @@
     <AppXManifest Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-28T08:21:45.791</Modified>
+      <Modified>2015-04-28T08:44:38.458</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\VIKINGEdesign.exe">
       <PackagePath>VIKINGEdesign.exe</PackagePath>
-      <Modified>2015-04-28T08:21:45.402</Modified>
+      <Modified>2015-04-28T08:44:38.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\Assets\body.gif">
       <PackagePath>Assets\body.gif</PackagePath>
@@ -80,9 +80,9 @@
       <PackagePath>App.xbf</PackagePath>
       <Modified>2015-04-27T12:00:13.530</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\FrontPage1.xbf">
-      <PackagePath>FrontPage1.xbf</PackagePath>
-      <Modified>2015-04-28T08:21:45.042</Modified>
+    <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\View\FrontPage1.xbf">
+      <PackagePath>View\FrontPage1.xbf</PackagePath>
+      <Modified>2015-04-28T08:44:37.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\VIKINGEdesign.xr.xml">
       <PackagePath>VIKINGEdesign.xr.xml</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-28T08:21:45.607</Modified>
+      <Modified>2015-04-28T08:44:38.333</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
