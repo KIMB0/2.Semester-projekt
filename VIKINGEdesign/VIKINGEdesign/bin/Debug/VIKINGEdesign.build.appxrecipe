@@ -38,6 +38,9 @@
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\Assets\Skib2.png">
+      <PackagePath>Assets\Skib2.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
