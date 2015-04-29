@@ -58,7 +58,7 @@
           <property Id="1d7ab652-a703-4972-b950-bb6e73d615b4" name="Dato" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="4bd38a25-d7e5-4a85-9900-26b6492fd447" />
           </property>
-          <property Id="9b46088f-00c9-4130-8e23-a9f4dde1b5c1" name="Antal" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+          <property Id="9b46088f-00c9-4130-8e23-a9f4dde1b5c1" name="AntalBørn" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="e87fccea-5c13-46e4-8679-3047467fb2d7" />
           </property>
           <property Id="484807f6-4a95-4dfc-a974-5870cd972861" name="Type" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
@@ -66,6 +66,9 @@
           </property>
           <property Id="55d92c52-c0d4-4a43-a1b4-6ef53ef1a877" name="Årstid" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="7807134d-7700-470b-b53a-c2c5e1bc5b26" />
+          </property>
+          <property Id="0fc04b8f-c266-4229-89af-553710aeb939" name="AntalVoksne" isLeaf="false" isStatic="false" isReadOnly="false" isUnique="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+            <elementDefinition Id="0bc069c4-c8bd-4cee-89c1-4d826378dbd0" />
           </property>
         </ownedAttributesInternal>
       </class>

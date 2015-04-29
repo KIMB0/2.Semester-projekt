@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\bin\Debug\VIKINGEdesign.exe">
       <PackagePath>VIKINGEdesign.exe</PackagePath>
-      <Modified>2015-04-28T10:23:55.077</Modified>
+      <Modified>2015-04-29T09:18:02.306</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kim\Documents\GitHub\2.Semester-projekt\VIKINGEdesign\VIKINGEdesign\Assets\body.gif">
       <PackagePath>Assets\body.gif</PackagePath>
